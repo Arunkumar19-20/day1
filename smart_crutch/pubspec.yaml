@@ -1,0 +1,39 @@
+name: smart_crutch
+description: A Smart Crutch Flutter Application
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_fonts: ^6.2.0
+  lottie: ^3.1.2
+  provider: ^6.1.2
+  percent_indicator: ^4.2.3
+  url_launcher: ^6.3.1
+
+  # Lottie animations
+
+
+  # Charts (ensure version compatibility with your Flutter SDK)
+  fl_chart: ^0.70.0
+
+  # Cupertino icons
+  cupertino_icons: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/lottie/hero_crutch.json
+    - assets/lottie/fall_alert.json

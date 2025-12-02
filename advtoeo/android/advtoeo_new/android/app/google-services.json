@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955358562657",
+    "project_id": "arundemo24-59af2",
+    "storage_bucket": "arundemo24-59af2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955358562657:android:a79eeb63525102782cdd20",
+        "android_client_info": {
+          "package_name": "com.example.advtoeo_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1EZ3yWLy284O5Cgixbg2WhnuG8knrR3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

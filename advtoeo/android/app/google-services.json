@@ -1,0 +1,68 @@
+
+{
+  "project_info": {
+    "project_number": "580655536166",
+    "project_id": "minework-6b1b9",
+    "storage_bucket": "minework-6b1b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580655536166:android:6d667b5bfa8a3e48016ee7",
+        "android_client_info": {
+          "package_name": "com.example.advtoeo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiF_VsMhYC4bfqrnx6qW8x5fbkkxfJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580655536166:android:7a419a7cbbcfe454016ee7",
+        "android_client_info": {
+          "package_name": "com.example.mine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiF_VsMhYC4bfqrnx6qW8x5fbkkxfJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580655536166:android:9584995591fe72ab016ee7",
+        "android_client_info": {
+          "package_name": "com.example.mineworks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiF_VsMhYC4bfqrnx6qW8x5fbkkxfJIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

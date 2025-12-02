@@ -1,0 +1,32 @@
+name: xx
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.5.1
+  firebase_core: ^4.1.1
+  firebase_auth: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/note1.wav
+    - assets/note2.wav
+    - assets/note3.wav
+    - assets/note4.wav
+    - assets/note5.wav
+    - assets/note6.wav
+    - assets/note7.wav
